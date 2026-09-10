@@ -16,6 +16,6 @@ At the same time, it is almost impossible not to rely on AI for coding, so **fin
 
 ## Bibliography
 
-The Linux Foundation. (n.d.). *Keynote: Linus Torvalds, creator of Linux & Git, with Dirk Hohndel, founder, DH Consulting* [Video]. YouTube. <https://www.youtube.com/watch?v=MriQleD0-aE&t=12s>
+Amirhossein's Lab. (n.d.). *Linus Torvalds: Vibe coding isn't enough* [Video]. YouTube. <https://www.youtube.com/watch?v=MriQleD0-aE&t=12s>
 
 This source supports the argument that AI-assisted coding still requires technical understanding and critical evaluation of its output.
